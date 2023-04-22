@@ -2,7 +2,7 @@
 Enhancing the FabricMC Experience.
 
 ## Documentation
-You can find documentation in the [`LegoLib-Fabric/community`](https://github.com/LegoLib-Fabric/community) repository in the [`/docs`](https://github.com/LegoLib-Fabric/community/tree/main/docs) directory.
+You can find documentation here: [LegoLib Documentation](https://legolib-fabric.github.io)
 
 ## Licensing  
 [![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)  
